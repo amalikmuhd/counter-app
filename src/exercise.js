@@ -1,7 +1,7 @@
 const address = {
   street: "Abubakar Crescent",
   city: "Abuja",
-  zipCode: "109104",
+  zipCode: "1091054",
 };
 
 const showAddress = (address) => {
